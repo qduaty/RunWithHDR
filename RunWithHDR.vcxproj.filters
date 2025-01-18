@@ -32,7 +32,7 @@
     <ClCompile Include="RunWithHDR.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Desktop\dev\external\AutoActions\Source\HDRController\HDRController\HDRController.cpp">
+    <ClCompile Include="AutoActions\Source\HDRController\HDRController\HDRController.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
