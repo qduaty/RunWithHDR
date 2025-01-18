@@ -1,0 +1,6 @@
+*.vsidx
+*.suo
+*.ipch
+/.vs/
+/RunWithHDR/x64/
+/x64/

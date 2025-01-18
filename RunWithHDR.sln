@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RunWithHDR", "RunWithHDR.vcxproj", "{B3837FA5-5E53-4286-8C06-1060E10D4787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Debug|x64.ActiveCfg = Debug|x64
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Debug|x64.Build.0 = Debug|x64
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Debug|x86.Build.0 = Debug|Win32
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Release|x64.ActiveCfg = Release|x64
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Release|x64.Build.0 = Release|x64
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Release|x86.ActiveCfg = Release|Win32
+		{B3837FA5-5E53-4286-8C06-1060E10D4787}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F42CCDA-554D-490D-9814-0CA6B09A7423}
+	EndGlobalSection
+EndGlobal
